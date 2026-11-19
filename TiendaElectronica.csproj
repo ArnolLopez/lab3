@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>12.0</LangVersion>
+    <AssemblyName>TiendaElectronica</AssemblyName>
+    <RootNamespace>Tienda.WinForms</RootNamespace>
+    <StartupObject>Tienda.WinForms.Program</StartupObject>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <DefaultItemExcludes>$(DefaultItemExcludes);bin\**;obj\**</DefaultItemExcludes>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="RepoDb.Sqlite.Microsoft" Version="1.13.1" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.22" />
+    <EmbeddedResource Include="BaseDatos\schema.sql" LogicalName="Tienda.Infrastructure.schema.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Formularios\LoginForm.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Formularios\LoginForm.Designer.cs"><DependentUpon>LoginForm.cs</DependentUpon></Compile>
+    <EmbeddedResource Update="Formularios\LoginForm.resx"><DependentUpon>LoginForm.cs</DependentUpon></EmbeddedResource>
+    <Compile Update="Formularios\ProductDialog.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Formularios\ProductDialog.Designer.cs"><DependentUpon>ProductDialog.cs</DependentUpon></Compile>
+    <EmbeddedResource Update="Formularios\ProductDialog.resx"><DependentUpon>ProductDialog.cs</DependentUpon></EmbeddedResource>
+    <Compile Update="Formularios\MainForm.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Formularios\MainForm.Designer.cs"><DependentUpon>MainForm.cs</DependentUpon></Compile>
+    <EmbeddedResource Update="Formularios\MainForm.resx"><DependentUpon>MainForm.cs</DependentUpon></EmbeddedResource>
+  </ItemGroup>
+</Project>

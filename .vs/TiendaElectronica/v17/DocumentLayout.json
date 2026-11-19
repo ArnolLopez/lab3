@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\datos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:datos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:formularios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\modelos\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:modelos\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\basedatos\\tienda.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:basedatos\\tienda.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|c:\\users\\dark\\downloads\\tareas\\lab3\\basedatos\\schema.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8A115E1F-E0E4-40C7-B375-8499216FE7E0}|TiendaElectronica.csproj|solutionrelative:basedatos\\schema.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\ProductDialog.cs",
+              "RelativeDocumentMoniker": "Formularios\\ProductDialog.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\ProductDialog.cs",
+              "RelativeToolTip": "Formularios\\ProductDialog.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:51:35.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\MainForm.cs",
+              "RelativeDocumentMoniker": "Formularios\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\MainForm.cs",
+              "RelativeToolTip": "Formularios\\MainForm.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:51:25.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Formularios\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:50:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Formularios\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\LoginForm.cs",
+              "RelativeToolTip": "Formularios\\LoginForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:49:36.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Formularios\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:49:31.229Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Datos\\Datos.cs",
+              "RelativeDocumentMoniker": "Datos\\Datos.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Datos\\Datos.cs",
+              "RelativeToolTip": "Datos\\Datos.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:48:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\ProductDialog.cs",
+              "RelativeDocumentMoniker": "Formularios\\ProductDialog.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\ProductDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\ProductDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:49:17.972Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\MainForm.cs",
+              "RelativeDocumentMoniker": "Formularios\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Formularios\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:49:27.863Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entidades.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Modelos\\Entidades.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Modelos\\Entidades.cs",
+              "RelativeToolTip": "Modelos\\Entidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:49:08.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Servicios\\Servicios.cs",
+              "RelativeDocumentMoniker": "Servicios\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\Servicios\\Servicios.cs",
+              "RelativeToolTip": "Servicios\\Servicios.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:48:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tienda.sql",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\BaseDatos\\tienda.sql",
+              "RelativeDocumentMoniker": "BaseDatos\\tienda.sql",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\BaseDatos\\tienda.sql",
+              "RelativeToolTip": "BaseDatos\\tienda.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-19T15:48:16.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "schema.sql",
+              "DocumentMoniker": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\BaseDatos\\schema.sql",
+              "RelativeDocumentMoniker": "BaseDatos\\schema.sql",
+              "ToolTip": "C:\\Users\\Dark\\Downloads\\tareas\\lab3\\BaseDatos\\schema.sql",
+              "RelativeToolTip": "BaseDatos\\schema.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-19T15:48:14.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
